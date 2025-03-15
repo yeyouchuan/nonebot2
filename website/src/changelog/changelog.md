@@ -7,6 +7,22 @@ toc_max_heading_level: 2
 
 ## 最近更新
 
+### 📝 文档
+
+- Docs: 添加 Gewechat 适配器描述 [@Shine-Light](https://github.com/Shine-Light) ([#3372](https://github.com/nonebot/nonebot2/pull/3372))
+
+### 🍻 插件发布
+
+- Plugin: maimai猜歌小游戏 [@noneflow](https://github.com/noneflow) ([#3318](https://github.com/nonebot/nonebot2/pull/3318))
+- Plugin: nonebot-plugin-aiochatllm [@noneflow](https://github.com/noneflow) ([#3358](https://github.com/nonebot/nonebot2/pull/3358))
+- Plugin: 拟人回复bot [@noneflow](https://github.com/noneflow) ([#3353](https://github.com/nonebot/nonebot2/pull/3353))
+
+### 🍻 适配器发布
+
+- Adapter: Gewechat [@noneflow](https://github.com/noneflow) ([#3306](https://github.com/nonebot/nonebot2/pull/3306))
+
+## v2.4.2
+
 ### 🚀 新功能
 
 - Feature: 添加 pydantic validator 兼容函数 [@RF-Tar-Railt](https://github.com/RF-Tar-Railt) ([#3291](https://github.com/nonebot/nonebot2/pull/3291))
@@ -26,6 +42,7 @@ toc_max_heading_level: 2
 
 ### 💫 杂项
 
+- Lint: 修复 async 函数返回值 [@yanyongyu](https://github.com/yanyongyu) ([#3364](https://github.com/nonebot/nonebot2/pull/3364))
 - Fix: 修复 pyright 类型推导问题 [@yanyongyu](https://github.com/yanyongyu) ([#3347](https://github.com/nonebot/nonebot2/pull/3347))
 - Fix: 修复 ruff lint 错误 [@yanyongyu](https://github.com/yanyongyu) ([#3346](https://github.com/nonebot/nonebot2/pull/3346))
 - Plugin: 删除插件 `pjsk` [@lgc2333](https://github.com/lgc2333) ([#3332](https://github.com/nonebot/nonebot2/pull/3332))
